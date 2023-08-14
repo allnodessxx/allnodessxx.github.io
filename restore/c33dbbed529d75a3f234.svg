@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178" height="138" viewBox="0 0 178 138">
+    <defs>
+        <linearGradient id="c" x1="113.887%" x2="-7.803%" y1="24.49%" y2="80.648%">
+            <stop offset="0%" stop-color="#58BFFF"/>
+            <stop offset="100%" stop-color="#A521FF"/>
+        </linearGradient>
+        <path id="a" d="M127.5 100h-115C5.598 100 0 94.403 0 87.5v-75C0 5.598 5.598 0 12.5 0h115c6.903 0 12.5 5.598 12.5 12.5v75c0 6.903-5.597 12.5-12.5 12.5z"/>
+        <filter id="b" width="147.1%" height="166%" x="-23.6%" y="-24%" filterUnits="objectBoundingBox">
+            <feOffset dy="9" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.607843137 0 0 0 0 0.37254902 0 0 0 0 1 0 0 0 0.3 0"/>
+        </filter>
+        <linearGradient id="g" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity=".5"/>
+        </linearGradient>
+        <path id="f" d="M91.388 50l48.4 39.6c-1.003 5.898-6.103 10.4-12.288 10.4h-115C6.315 100 1.215 95.498.213 89.6L48.61 50l15.977 13.072a8.55 8.55 0 0 0 10.825 0l15.975-13.071z"/>
+        <filter id="e" width="136.5%" height="202%" x="-18.3%" y="-51%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.498039216 0 0 0 0 0.560784314 0 0 0 0 0.643137255 0 0 0 0.2 0"/>
+        </filter>
+        <linearGradient id="j" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity=".5"/>
+        </linearGradient>
+        <path id="i" d="M.212 10.4l64.376 52.672a8.55 8.55 0 0 0 10.825 0L139.786 10.4C138.785 4.503 133.685 0 127.5 0h-115C6.315 0 1.215 4.503.213 10.4z"/>
+        <filter id="h" width="136.5%" height="178.5%" x="-18.3%" y="-39.2%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.498039216 0 0 0 0 0.560784314 0 0 0 0 0.643137255 0 0 0 0.2 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(19 10)">
+        <mask id="d" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#000" filter="url(#b)" xlink:href="#a"/>
+        <use fill="url(#c)" xlink:href="#a"/>
+        <g mask="url(#d)" opacity=".1">
+            <use fill="#000" filter="url(#e)" xlink:href="#f"/>
+            <use fill="url(#g)" xlink:href="#f"/>
+        </g>
+        <g mask="url(#d)" opacity=".3">
+            <use fill="#000" filter="url(#h)" xlink:href="#i"/>
+            <use fill="url(#j)" xlink:href="#i"/>
+        </g>
+    </g>
+</svg>

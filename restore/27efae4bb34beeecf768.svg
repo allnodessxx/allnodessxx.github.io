@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2048px" height="486px" viewBox="0 0 2048 486" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#35C89B" offset="0%"></stop>
+            <stop stop-color="#20B696" offset="99.1531906%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="2048" height="486"></rect>
+    </defs>
+    <g id="Check-Status" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Rectangle" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <g id="Oval-Copy-4" mask="url(#mask-3)" opacity="0.15">
+                <g transform="translate(1088.000000, -146.000000)" id="Group-3" fill="#36E8C3">
+                    <polygon id="Rectangle" transform="translate(717.000000, 667.000000) scale(1, -1) translate(-717.000000, -667.000000) " points="1126 258 1126 1076 308 1076"></polygon>
+                    <polygon id="Rectangle-Copy-2" transform="translate(507.500000, 1023.000000) scale(1, -1) translate(-507.500000, -1023.000000) " points="1015 516 1015 1530 0 1530"></polygon>
+                    <polygon id="Rectangle-Copy-4" transform="translate(828.000000, 409.000000) scale(1, -1) translate(-828.000000, -409.000000) " points="1237 0 1237 818 419 818"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

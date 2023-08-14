@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="672px" viewBox="0 0 360 672" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>wave_grey_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M359.994447,0.906586132 L360,672 C314.319385,671.524736 262.813842,668.049602 205.009119,660.369374 C125.747752,649.838308 58.0301624,647.249473 0.77307028,649.478997 L0,0.906586132 L359.994447,0.906586132 Z" id="path-1"></path>
+    </defs>
+    <g id="Update" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="wave_grey_bg" fill="#F8FAFC" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

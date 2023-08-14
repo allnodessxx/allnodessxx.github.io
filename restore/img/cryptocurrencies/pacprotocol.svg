@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PAC</title>
+    <defs>
+        <linearGradient x1="24.9958744%" y1="6.70194603%" x2="74.9938505%" y2="93.300986%" id="linearGradient-1">
+            <stop stop-color="#05C1DA" offset="0%"></stop>
+            <stop stop-color="#00BED6" offset="43.29%"></stop>
+            <stop stop-color="#00B3CC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logos" transform="translate(-2920.000000, -164.000000)" fill-rule="nonzero">
+            <g id="PAC" transform="translate(2920.000000, 164.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="18" cy="18" r="18"></circle>
+                <polygon id="Path" fill="#FFFFFF" points="26.1733264 17.831863 18.0840685 6.09963674 9.98546964 17.831863 16.823041 27.7426051 16.823041 17.7851583 15.7114686 22.1286975 12.7410483 17.831863 18.0840685 10.1069019 23.4177478 17.831863 20.4566684 22.1286975 18.0840685 12.8437987 18.0840685 29.5734302 18.0840685 29.5734302"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

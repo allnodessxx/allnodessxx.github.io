@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 36 29">
+    <defs>
+        <linearGradient id="9tvfrc1nta" x1="67.606%" x2="12.372%" y1="32.43%" y2="53.058%">
+            <stop offset="0%" stop-color="#00FFA3"/>
+            <stop offset="100%" stop-color="#DC1FFF"/>
+        </linearGradient>
+        <linearGradient id="9lfo1bnf1b" x1="67.606%" x2="12.372%" y1="43.908%" y2="64.535%">
+            <stop offset="0%" stop-color="#00FFA3"/>
+            <stop offset="100%" stop-color="#DC1FFF"/>
+        </linearGradient>
+        <linearGradient id="8hmbs570bc" x1="67.606%" x2="12.372%" y1="38.206%" y2="58.833%">
+            <stop offset="0%" stop-color="#00FFA3"/>
+            <stop offset="100%" stop-color="#DC1FFF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g>
+                <g>
+                    <path fill="url(#9tvfrc1nta)" d="M5.894 21.49c.22-.22.518-.343.828-.343H35.39c.522 0 .783.632.414 1l-5.664 5.66c-.22.22-.518.344-.829.344H.644c-.523 0-.784-.632-.415-1.001l5.665-5.66z" transform="translate(-2453.000000, -327.000000) translate(100.000000, 84.000000) translate(2353.000000, 243.000000)"/>
+                    <path fill="url(#9lfo1bnf1b)" d="M5.894.345c.22-.22.518-.343.828-.343H35.39c.522 0 .783.631.414 1l-5.664 5.66c-.22.22-.518.343-.829.343H.644c-.523 0-.784-.631-.415-1L5.894.345z" transform="translate(-2453.000000, -327.000000) translate(100.000000, 84.000000) translate(2353.000000, 243.000000)"/>
+                    <path fill="url(#8hmbs570bc)" d="M30.139 10.85c-.22-.22-.518-.343-.829-.343H.644c-.523 0-.784.632-.415 1l5.665 5.66c.22.22.518.344.828.344H35.39c.522 0 .783-.632.414-1.001l-5.664-5.66z" transform="translate(-2453.000000, -327.000000) translate(100.000000, 84.000000) translate(2353.000000, 243.000000)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

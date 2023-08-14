@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="440" viewBox="0 0 220 440">
+    <defs>
+        <linearGradient id="v2cy80vtjb" x1="26.361%" x2="62.5%" y1="-30.78%" y2="79.8%">
+            <stop offset="0%" stop-color="#FFC863"/>
+            <stop offset="100%" stop-color="#FC8C58"/>
+        </linearGradient>
+        <linearGradient id="fn9twen5id" x1="51.695%" x2="46.794%" y1="79.8%" y2="-30.78%">
+            <stop offset="0%" stop-color="#FED791" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#FC8C58"/>
+        </linearGradient>
+        <linearGradient id="pes1xb4cke" x1="54.455%" x2="44.689%" y1="149.839%" y2="-23.201%">
+            <stop offset="0%" stop-color="#FDA276" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#F96941"/>
+        </linearGradient>
+        <linearGradient id="6zxaq1g4of" x1="50.662%" x2="51.39%" y1="22.679%" y2="107.382%">
+            <stop offset="0%" stop-color="#FDA276" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#F96941"/>
+        </linearGradient>
+        <path id="34a11bz0qa" d="M0 0L220 0 220 440 0 440z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="23pem4cygc" fill="#fff">
+            <use xlink:href="#34a11bz0qa"/>
+        </mask>
+        <use fill="url(#v2cy80vtjb)" fill-rule="nonzero" xlink:href="#34a11bz0qa"/>
+        <g mask="url(#23pem4cygc)">
+            <g fill-rule="nonzero">
+                <path fill="url(#fn9twen5id)" d="M322.138 243.26L434.644 243.225 434.35 855.826 321.843 855.861z" opacity=".408" transform="translate(-145 -311) rotate(39 378.244 549.543)"/>
+                <path fill="url(#pes1xb4cke)" d="M239.374 379.742L368.851 379.688 368.653 777.509 239.176 777.562z" opacity=".3" transform="translate(-145 -311) rotate(39 304.014 578.625)"/>
+                <path fill="url(#6zxaq1g4of)" d="M177.363 -22.709L320.667 -22.766 320.369 589.846 177.065 589.903z" opacity=".297" transform="translate(-145 -311) rotate(39 248.866 283.568)"/>
+            </g>
+        </g>
+    </g>
+</svg>

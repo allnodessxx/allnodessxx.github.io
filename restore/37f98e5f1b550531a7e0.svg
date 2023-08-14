@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <title>mobile_close</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Mobile-Menu-Styles-Copy" transform="translate(-278.000000, -17.000000)" fill-rule="nonzero" fill="#354052">
+      <path
+        d="M286.292893,24.7071068 L276.292893,24.7071068 L276.292893,26.7071068 L286.292893,26.7071068 L286.292893,36.7071068 L288.292893,36.7071068 L288.292893,26.7071068 L298.292893,26.7071068 L298.292893,24.7071068 L288.292893,24.7071068 L288.292893,14.7071068 L286.292893,14.7071068 L286.292893,24.7071068 Z"
+        id="mobile_close"
+        transform="translate(287.292893, 25.707107) rotate(-45.000000) translate(-287.292893, -25.707107) "></path>
+    </g>
+  </g>
+</svg>

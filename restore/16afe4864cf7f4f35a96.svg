@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="884px" height="601px" viewBox="0 0 884 601" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>features_staking_2_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="90.8943448%" y1="67.8498533%" x2="23.7024439%" y2="34.411585%" id="linearGradient-1">
+            <stop stop-color="#7A6CFE" offset="0%"></stop>
+            <stop stop-color="#9548FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main" transform="translate(0.000000, -5091.000000)">
+            <g id="Block-6-Copy" transform="translate(0.000000, 5024.000000)">
+                <g id="features_staking_2_bg" transform="translate(0.000000, 67.000000)">
+                    <path d="M15.6149734,265.959748 C-3.63712688,22.1263909 219.609883,-39.6195249 360.128096,23.7770126 C500.419281,87.6860203 458.156473,152.807031 697.380195,212.61168 C936.218671,272.001324 916.688415,509.230201 719.422079,581.986559 C522.155743,654.742917 34.7585192,509.433032 15.6149734,265.959748 Z" id="Detail" fill="#A96AFF" fill-rule="nonzero" opacity="0.1"></path>
+                    <path d="M17.211922,361.169492 C-60.4569365,129.236532 141.220994,15.316394 292.902226,42.8353511 C444.487152,70.9064786 419.233928,144.317416 665.819737,144.472155 C911.931345,144.317416 939.414779,416.70559 800.146799,511.387409 C661.589251,606.951057 94.6883411,592.779336 17.211922,361.169492 Z" id="Path-135-Copy-5" fill="url(#linearGradient-1)"></path>
+                    <path d="M216.928058,40.4664612 C291.894979,251.114791 403.582545,355.622432 571.97122,329.249829 C731.725692,304.229492 835.674305,311.664042 883.817059,351.553479 C881.794834,414.017568 852.961636,475.48106 800.146799,511.387409 C661.589251,606.951057 94.6883411,592.779336 17.211922,361.169492 C-47.9199484,166.674198 83.3913535,55.1682703 216.928058,40.4664612 Z" id="Combined-Shape" fill="#A96AFF" fill-rule="nonzero" opacity="0.25"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

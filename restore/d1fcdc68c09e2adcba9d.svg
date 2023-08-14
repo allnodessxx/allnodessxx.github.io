@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2048" height="723" viewBox="0 0 2048 723">
+    <defs>
+        <linearGradient id="prefix__b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#232348"/>
+            <stop offset="100%" stop-color="#0D0D2A"/>
+        </linearGradient>
+        <path id="prefix__a" d="M2048.003 0v646.126c-269.223-150.402-565.347-135.908-968.733 2.642C651.54 795.68 366.559 704.651 0 543.165V0h2048.003z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="prefix__c" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <use fill="url(#prefix__b)" xlink:href="#prefix__a"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M2173-181v639.537c-210.018 121.07-417.757 142.544-623.217 64.423-308.19-117.182-547.313-94.195-768.716 101.368C633.466 754.703 457.777 821.594 254 825V719.665C639.848 693.2 672.718 322.177 906.12 200.404c233.402-121.773 442.98-76.154 713.023-76.154C1889.188 124.25 2156.29-90.248 2173-181zm-.072 230.97c-29.853 48-85.634 85.483-167.344 112.45-122.564 40.449-213.059 75.556-167.811 169.393 45.247 93.838 251.493 73.824 335.155-31.736V49.97z" mask="url(#prefix__c)" opacity=".03" transform="rotate(-15 1213.5 322)"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M1440-160c-327.08 35.856-594.58 127.19-802.5 274C429.58 260.813 217.28 290.12.6 201.924V-160H1440z" mask="url(#prefix__c)" opacity=".03"/>
+    </g>
+</svg>

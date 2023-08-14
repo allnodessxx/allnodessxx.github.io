@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2048" height="1120" viewBox="0 0 2048 1120">
+    <defs>
+        <linearGradient id="prefix__d" x1="99.365%" x2="0%" y1="63.373%" y2="38.328%">
+            <stop offset="0%" stop-color="#7B55BE"/>
+            <stop offset="100%" stop-color="#3A2264"/>
+        </linearGradient>
+        <linearGradient id="prefix__f" x1="100%" x2="0%" y1="100%" y2="100%">
+            <stop offset="0%" stop-color="#7B55BE"/>
+            <stop offset="100%" stop-color="#3A2264"/>
+        </linearGradient>
+        <linearGradient id="prefix__i" x1="100%" x2="47.717%" y1="30.057%" y2="83.034%">
+            <stop offset="0%" stop-color="#7B55BE"/>
+            <stop offset="100%" stop-color="#3A2264"/>
+        </linearGradient>
+        <linearGradient id="prefix__l" x1="90.78%" x2="11.129%" y1="1.39%" y2="80.744%">
+            <stop offset="0%" stop-color="#AB7BFF"/>
+            <stop offset="100%" stop-color="#462A78"/>
+        </linearGradient>
+        <linearGradient id="prefix__o" x1="15.411%" x2="124.665%" y1="9.654%" y2="166.322%">
+            <stop offset="0%" stop-color="#B175EC"/>
+            <stop offset="100%" stop-color="#5134B3"/>
+        </linearGradient>
+        <filter id="prefix__g" width="110.3%" height="110.3%" x="-5.1%" y="-5.1%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="28.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.156862745 0 0 0 0 0.168627451 0 0 0 0 0.192156863 0 0 0 0.1 0"/>
+        </filter>
+        <filter id="prefix__j" width="117.9%" height="117.9%" x="-9%" y="-9%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="28.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.156862745 0 0 0 0 0.168627451 0 0 0 0 0.192156863 0 0 0 0.1 0"/>
+        </filter>
+        <filter id="prefix__m" width="115.6%" height="115.6%" x="-7.8%" y="-7.8%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="21.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.156862745 0 0 0 0 0.168627451 0 0 0 0 0.192156863 0 0 0 0.1 0"/>
+        </filter>
+        <circle id="prefix__h" cx="832" cy="867.556" r="832"/>
+        <circle id="prefix__k" cx="2183.111" cy="1464.889" r="476.444"/>
+        <circle id="prefix__n" cx="2659.556" cy="412.444" r="412.444"/>
+        <path id="prefix__a" d="M2048 0L2047.994 1120 0 1120 0.003 0z"/>
+        <path id="prefix__c" d="M0 0H2048V1260H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <use fill="#190B28" xlink:href="#prefix__a"/>
+        <g mask="url(#prefix__b)">
+            <mask id="prefix__e" fill="#fff">
+                <use xlink:href="#prefix__c"/>
+            </mask>
+            <use fill="url(#prefix__d)" xlink:href="#prefix__c"/>
+            <g mask="url(#prefix__e)">
+                <g transform="translate(-803.556 -375.556)">
+                    <circle cx="2204.444" cy="1592.889" r="1066.667" fill="url(#prefix__f)" opacity=".3"/>
+                    <g opacity=".3">
+                        <use fill="#000" filter="url(#prefix__g)" xlink:href="#prefix__h"/>
+                        <use fill="url(#prefix__i)" xlink:href="#prefix__h"/>
+                    </g>
+                    <g opacity=".2">
+                        <use fill="#000" filter="url(#prefix__j)" xlink:href="#prefix__k"/>
+                        <use fill="url(#prefix__l)" xlink:href="#prefix__k"/>
+                    </g>
+                    <g opacity=".3">
+                        <use fill="#000" filter="url(#prefix__m)" xlink:href="#prefix__n"/>
+                        <use fill="url(#prefix__o)" xlink:href="#prefix__n"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

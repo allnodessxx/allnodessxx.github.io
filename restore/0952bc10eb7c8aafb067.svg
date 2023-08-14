@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+  <title>step_4</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Update-Step-2" transform="translate(-1197.000000, -60.000000)">
+      <g id="step_4" transform="translate(1197.000000, 60.000000)">
+        <path
+          d="M23,1 C10.8706914,1 1,10.8706914 1,23 C1,35.1293085 10.8706915,45 23,45 C35.1293084,45 45,35.1293084 45,23 C45,10.8706915 35.1293085,1 23,1 Z"
+          id="Shape" stroke="#FFFFFF" opacity="0.35" stroke-width="2" fill-rule="nonzero"></path>
+        <polygon id="4" fill="#FFFFFF"
+                 points="27.6 26.5 29.725 26.5 29.725 28.675 27.6 28.675 27.6 32 25.275 32 25.275 28.675 16.35 28.675 16.35 26.5 22.625 14.5 25.125 14.5 18.85 26.5 25.275 26.5 25.275 21.55 27.6 21.55"
+                 opacity="0.35"></polygon>
+      </g>
+    </g>
+  </g>
+</svg>

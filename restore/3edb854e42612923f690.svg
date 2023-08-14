@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <title>7A29CFF1-C820-4782-A630-A966666B161F</title>
+  <desc>Created with sketchtool.</desc>
+  <defs>
+    <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+      <stop stop-color="#009FC5" offset="0%"></stop>
+      <stop stop-color="#3CECB0" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="AllNodes-Stylesheet" transform="translate(-325.000000, -717.000000)" fill="url(#linearGradient-1)">
+      <g id="02---Typography" transform="translate(105.000000, 497.000000)">
+        <g id="Input-1" transform="translate(0.000000, 182.000000)">
+          <g id="Input" transform="translate(1.000000, 5.000000)">
+            <g id="State" transform="translate(0.000000, 20.000000)">
+              <path
+                d="M227.439,26.01 C227.048,26.401 226.415,26.401 226.025,26.01 L223.489,23.475 C223.099,23.084 223.099,22.451 223.489,22.06 C223.88,21.67 224.513,21.67 224.903,22.06 L226.732,23.889 L231.096,19.525 C231.486,19.134 232.119,19.134 232.51,19.525 C232.901,19.915 232.901,20.548 232.51,20.939 L227.439,26.01 Z M228,13 C223.029,13 219,17.029 219,22 C219,26.97 223.029,31 228,31 C232.97,31 237,26.97 237,22 C237,17.029 232.97,13 228,13"
+                id="form_check"></path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

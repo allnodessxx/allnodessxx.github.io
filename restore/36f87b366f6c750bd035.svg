@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="303" viewBox="0 0 350 303">
+    <defs>
+        <path id="r1asvtldfa" d="M30 0h119.914c13.261 0 25.979 5.268 35.356 14.645L195.625 25c16.007 16.007 37.718 25 60.355 25H320c16.569 0 30 13.431 30 30v192.5c0 16.569-13.431 30-30 30H30c-16.569 0-30-13.431-30-30V30C0 13.431 13.431 0 30 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-469 -420) translate(469 420)">
+                <use fill="#FFF" xlink:href="#r1asvtldfa"/>
+            </g>
+        </g>
+    </g>
+</svg>

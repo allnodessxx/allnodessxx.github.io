@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2048" height="581" viewBox="0 0 2048 581">
+    <defs>
+        <linearGradient id="prefix__b" x1="100%" x2="0%" y1="46.193%" y2="52.76%">
+            <stop offset="0%" stop-color="#A883EB"/>
+            <stop offset="100%" stop-color="#624499"/>
+        </linearGradient>
+        <linearGradient id="prefix__d" x1="100%" x2="0%" y1="46.193%" y2="52.76%">
+            <stop offset="0%" stop-color="#A883EB"/>
+            <stop offset="100%" stop-color="#624499"/>
+        </linearGradient>
+        <linearGradient id="prefix__e" x1="100%" x2="50%" y1="50.331%" y2="54.245%">
+            <stop offset="0%" stop-color="#9974DA"/>
+            <stop offset="100%" stop-color="#442B70"/>
+        </linearGradient>
+        <path id="prefix__a" d="M0 0.342H2048V581.342H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 -.342)">
+        <mask id="prefix__c" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <path fill="url(#prefix__b)" d="M78 577.607c1259.762 37.737 2281-211.791 2281-557.336 0-345.544-1021.238-656.255-2281-693.991-1259.762-37.737-2281 211.79-2281 557.335 0 345.545 1021.238 656.255 2281 693.992z" mask="url(#prefix__c)" opacity=".041"/>
+        <path fill="url(#prefix__d)" d="M-26.5 548.943C1175.548 584.951 2150 346.855 2150 17.141c0-329.714-974.452-626.19-2176.5-662.198C-1228.548-681.064-2203-442.968-2203-113.254s974.452 626.19 2176.5 662.197z" mask="url(#prefix__c)" opacity=".101"/>
+        <ellipse cx="-1" cy="-44" fill="url(#prefix__e)" mask="url(#prefix__c)" rx="2049" ry="597"/>
+    </g>
+</svg>

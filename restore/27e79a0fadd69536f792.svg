@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2048 1067" style="enable-background:new 0 0 2048 1067;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F8FAFC;}
+	.st1{opacity:9.000000e-02;fill-rule:evenodd;clip-rule:evenodd;fill:#648EFC;enable-background:new    ;}
+	.st2{opacity:0.1;fill-rule:evenodd;clip-rule:evenodd;fill:#A75CE7;enable-background:new    ;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#F2F5F9;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st6{mask:url(#mask-2_1_);}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle-Copy_1_);}
+	.st8{opacity:0.27;fill:#A96AFF;enable-background:new    ;}
+	.st9{opacity:0.35;fill:#A96AFF;enable-background:new    ;}
+	.st10{opacity:0.8;}
+	.st11{opacity:0.2;fill:#4FC9F5;enable-background:new    ;}
+</style>
+<title>background</title>
+<desc>Created with Sketch.</desc>
+<g id="background">
+	<path id="trustpilot_bg" class="st0" d="M2048,286l0,620.5c-163.4,59.9-466.4,121.1-964.1,55.3C442,876.8,115.9,1004.1,0,1067
+		l0-781H2048z"/>
+	<path id="Bg-Copy" class="st1" d="M269.4-167C-28.3,382.4,340,676.4,622.5,691c281.7,14.4,327.7-133.5,828.4,0
+		c499.4,134.5,725.5-486.3,502.3-783.7C1731.5-390.6,567.3-716.3,269.4-167z"/>
+	<path id="Bg-Copy-3" class="st2" d="M-54.1-421.9c-372.6,687.6,98.2,1098,451.7,1116.3c352.5,18,415.6-235.2,1042.4-68.2
+		c625,168.4,892.7-582.9,613.3-955.1C1775.7-701.6,318.7-1109.2-54.1-421.9z"/>
+	<g id="Bg-Copy-2">
+		<path class="st3" d="M2456.3-216.8c368.9,591.2-23.9,865.2-480.6,917.5s-409.8-158.8-1055.4-26.5
+			C276.4,807.8-496.9,374.6,115.7-203.6S2087.2-807.9,2456.3-216.8z"/>
+	</g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-309.2" y="-934.7" width="2401.1" height="2216.4">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="-309.2" y="-934.7" width="2401.1" height="2216.4" id="mask-2_1_">
+		<g class="st4">
+			<path id="path-1_1_" class="st5" d="M2456.3-216.8c368.9,591.2-23.9,865.2-480.6,917.5s-409.8-158.8-1055.4-26.5
+				C276.4,807.8-496.9,374.6,115.7-203.6S2087.2-807.9,2456.3-216.8z"/>
+		</g>
+	</mask>
+	<g class="st6">
+		<g transform="translate(-19.000000, 113.000000)">
+			
+				<linearGradient id="Rectangle-Copy_1_" gradientUnits="userSpaceOnUse" x1="19.9912" y1="840.7467" x2="19.0214" y2="840.461" gradientTransform="matrix(2048 0 0 -1124 -38893 945285.6875)">
+				<stop  offset="0" style="stop-color:#5B96FD"/>
+				<stop  offset="1" style="stop-color:#9548FE"/>
+			</linearGradient>
+			<rect id="Rectangle-Copy" x="19" y="-113" class="st7" width="2048" height="1124"/>
+			<g id="Group-22">
+				<path id="Rectangle-2" class="st8" d="M56.8-1047.7c112.1,19.3,221.6,93.7,328.5,223.2C693.6-451-3.9,124.1,514.6,395.5
+					c151.4,79.2,210.1,295.1,176.1,647.7l-896-190.4L56.8-1047.7z"/>
+				<path id="Mask" class="st9" d="M-290.2-363.3c44.3,93.1,132.8,162.2,265.5,207.5c382.5,130.4-13.5,513,538.1,715.6
+					c129.2,47.5,200.6,196.7,214.3,447.6l-607.4,161.2L-290.2-363.3z"/>
+			</g>
+			<g id="Group-20" transform="translate(1634.000000, 647.000000)" class="st10">
+				<path id="Rectangle-2-Copy" class="st11" d="M-303.4-973H433V456.4H-70.5c-54-58-45.7-211.1,25.2-459.3
+					c64.9-227.5-17.9-418.8-215.8-596.1C-350.9-679.2-365-803.9-303.4-973z"/>
+				<path id="Rectangle-2-Copy-4" class="st11" d="M-108.1-1048h585V112h-400c-42.9-47-36.3-171.3,20-372.7
+					c51.6-184.6-14.2-339.8-171.5-483.7C-145.9-809.6-157.1-910.8-108.1-1048z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
